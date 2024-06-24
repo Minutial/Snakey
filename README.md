@@ -1,2 +1,2 @@
 # Snakey
-Snakes are sneaking around data
+Snakes are sneaking around CS50P
